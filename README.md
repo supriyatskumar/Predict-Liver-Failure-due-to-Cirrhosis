@@ -1,6 +1,6 @@
 # Predict-Liver-Failure-due-to-Cirrhosis
 
-### Problem Statement
+## Problem Statement
 Cirrhosis is a late stage of scarring of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. Advanced cirrhosis results in Liver failure and may be life threatening. Early detection of liver cirrhosis can be treated and reduce further damage. 
 
 This project is to predict liver failure due to cirrhosis using demographic and personal health variables. 

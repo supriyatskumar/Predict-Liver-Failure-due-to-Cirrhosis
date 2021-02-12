@@ -1,9 +1,7 @@
 # Predict-Liver-Failure-due-to-Cirrhosis
 
 ### Problem Statement
-Cirrhosis is a late stage of scarring of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism.
-Each time liver is injured — whether by disease, excessive alcohol consumption or another cause — it tries to repair itself. In the process, scar tissue forms. As cirrhosis progresses, more and more scar tissue forms, making it difficult for the liver to function. Advanced cirrhosis results in Liver failure and may be life threatning.
-The liver damage done by cirrhosis generally can't be undone.Early detection of liver cirrhosis can be treated and reduce further damage. 
+Cirrhosis is a late stage of scarring of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. Advanced cirrhosis results in Liver failure and may be life threatning. Early detection of liver cirrhosis can be treated and reduce further damage. 
 
 This project is to predict liver failure due to cirrhosis using demographic and personal health variables. 
 

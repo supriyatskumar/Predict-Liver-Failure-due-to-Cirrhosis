@@ -13,6 +13,8 @@ This project is to predict liver failure due to cirrhosis using demographic and 
 The data set is published at: https://www.kaggle.com/rahul121/acute-liver-failure <br />
 Since 1990, the JPAC Center for Health Diagnosis and Control, has conducted nationwide surveys of Indian adults. Using trained personnel, the center had collected a wide variety of demographic and health information using direct interviews, examinations, and blood samples. The data set consists of selected information from 8,785 adults 20 years of age or older taken from the 2008–2009 and 2014–2015 surveys.
 
+Checkout the detailed Exploratory Data Ananlysis here
+
 ## Machine Learning Problem Statement 
 This is a binary classification problem, where given the demographic and personal health variables, predict if a given patient will have liver failure or not.
 

@@ -16,7 +16,7 @@ Since 1990, the JPAC Center for Health Diagnosis and Control, has conducted nati
 Checkout the detailed Exploratory Data Ananlysis here
 
 ## Machine Learning Problem Statement 
-This is a binary classification problem, where given the demographic and personal health variables, predict if a given patient will have liver failure or not.
+This is a binary classification problem. Given the demographic and personal health variables, predict if a patient will have liver failure or not.
 
 ## Approach
 

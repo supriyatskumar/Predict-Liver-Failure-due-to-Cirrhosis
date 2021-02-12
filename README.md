@@ -5,7 +5,7 @@ Cirrhosis is a late stage of scarring of the liver caused by many forms of liver
 
 This project is to predict liver failure due to cirrhosis using demographic and personal health variables. 
 
-### Use cases
+### Use Case
 * This can be used to gain insight on how social determinants and individiual determinants of health contributes to liver failure due to cirrhosis. As a result, it can be used by government or non-profit entities to promote public health.
 * This can be used by insurance providers to predict health behaviours and outcomes of their members and enable new methods of connecting them to social and environmental services to help treat, prevent and cure medical conditions, improve quality of life and, reduce overall medical costs.
 

@@ -1,7 +1,7 @@
 # Predict-Liver-Failure-due-to-Cirrhosis
 
 ### Problem Statement
-Cirrhosis is a late stage of scarring of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. Advanced cirrhosis results in Liver failure and may be life threatning. Early detection of liver cirrhosis can be treated and reduce further damage. 
+Cirrhosis is a late stage of scarring of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. Advanced cirrhosis results in Liver failure and may be life threatening. Early detection of liver cirrhosis can be treated and reduce further damage. 
 
 This project is to predict liver failure due to cirrhosis using demographic and personal health variables. 
 
@@ -15,6 +15,10 @@ Since 1990, the JPAC Center for Health Diagnosis and Control, has conducted nati
 
 ## Machine Learning Problem Statement 
 This is a binary classification problem, where given the demographic and personal health variables, predict if a given patient will have liver failure or not.
+
+## Approach
+
+## Result
 
 ## Evaluation Metric (KPI)
 Accuracy<br />

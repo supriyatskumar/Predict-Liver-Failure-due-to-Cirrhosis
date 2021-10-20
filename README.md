@@ -19,14 +19,15 @@ Checkout the detailed Exploratory Data Ananlysis here
 This is a binary classification problem. Given the demographic and personal health variables, predict if a patient will have liver failure or not.
 
 ## Approach
-
-## Result
+In this project multiple classification techniques (Xgboost, Decision Tree, Random Forest, SVM, Logistic Regression, KNN, Naive Bayes) are compared to predict the liver failure using demographic and personal health data.
+An oversampling method(SMOTE) is used to address the issue of imbalance in the dataset.
 
 ## Evaluation Metric (KPI)
-Accuracy<br />
-Precision<br />
+AUC<br />
 Recall<br />
-AUPRC<br />
+Accuracy
+
+## Result
 
 
 
